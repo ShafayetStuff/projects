@@ -1,0 +1,16 @@
+.sup{
+    padding-top: 60px;
+    font-size: 40px;
+    color: rgb(255, 166, 0);
+    text-align: center;
+    text-decoration: underline;
+}
+.links{
+    color:black;
+    padding-top: 60px;
+    padding-left: 60px;
+}
+.fast{
+    font-size: larger;
+    color: blue;
+}
