@@ -2,6 +2,7 @@
 #include<string.h>
 using namespace std;
 typedef string str;
+//unfinished, out of my knowledge
 
 int main()
 {
@@ -12,7 +13,10 @@ int main()
         if(sc>k){
             p++;
         }
-        else if(sc==k){
+        else if(k<2 && sc>=k){
+            p++;
+         }
+         else if (sc==sc && sc>0){
             p++;
          }
     }
